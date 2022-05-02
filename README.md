@@ -1,6 +1,6 @@
 # Using Data to Tell Stories About Food 
-R Shiny App created for the [2022 New York Youth Institute](https://cals.cornell.edu/global-development/new-york-youth-institute), which took place at Cornell University on March 25, 2022. <br/><br/>
-Current web app is published [here](https://0bexj0-grace-campidilli.shinyapps.io/wfp_data_app/).  <br/><br/>
+R Shiny App created for the [2022 New York Youth Institute](https://cals.cornell.edu/global-development/new-york-youth-institute), which took place at Cornell University on March 25, 2022. <br/>
+Current web app is published [here](https://0bexj0-grace-campidilli.shinyapps.io/wfp_data_app/).  <br/>
 ### Project Overview
 This tool allows students to explore different ways to present their research. By combining data analysis and visualization of FAO data with excerpts of the student's research paper, this tool gives the students the opportunity to transform the paper they wrote for NYYI into a data-driven magazine. This tool was introduced to the 50 NYYI participants during a workshop at the day-long NYYI event on March 25, 2022.
 
