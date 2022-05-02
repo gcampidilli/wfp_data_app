@@ -8,7 +8,8 @@ The website could be thought of as a combination of a google form and data dashb
 Then, with the click of the ‘finished’ button, all of the information on the webpage is placed at predetermined locations on the magazine template, and the magazine pdf is becomes available to download. Because this project is still in its beginning stages, this last part is not perfectly automated - sometimes text is not formatted 100% correctly on the template. When this happens, I am able to manually edit the arrangement of information on the magazine using a basic pdf viewer. I am actively working on improving this feature. <br/>
 ### Table of Contents<br/>
 'app.R' defines the user interface and the defines the server<br/>
-'RData_objects' contains rda files of all FAO data used in the app<br/>
 'outputToTemplate.py' takes the output of the webapp and arranges it on the magazine template<br/>
+'example_magazine_product.pdf' from a student that participated in the workshop <br/>
+'RData_objects' contains rda files of all FAO data used in the app<br/>
 'www' contains all other scripts and objects used in the web app<br/>
 
