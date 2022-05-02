@@ -1,5 +1,5 @@
 # Using Data to Tell Stories About Food 
-R Shiny App created for the [2022 New York Youth Institute](https://cals.cornell.edu/global-development/new-york-youth-institute)<br/>
+R Shiny App created for the [2022 New York Youth Institute](https://cals.cornell.edu/global-development/new-york-youth-institute), hosted jointly by Cornell University and the World Food Prize Foundation<br/>
 Current web app is published [here](https://0bexj0-grace-campidilli.shinyapps.io/wfp_data_app/).  <br/>
 
 ### Project Overview
